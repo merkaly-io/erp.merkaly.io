@@ -15,9 +15,8 @@
     "test:e2e": "jest --config ./test/jest-e2e.json"
   },
   "dependencies": {
-    "@merkaly/nest": "^0.1.2"
+    "@merkaly/nest": "^0.1.5"
   },
-  "devDependencies": {},
   "packageManager": "pnpm@10.28.2",
   "engines": {
     "node": ">=20"
